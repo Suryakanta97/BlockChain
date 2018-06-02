@@ -1,2 +1,3 @@
-# BlockChain
-Blockchain in java with easy coding
+# Java BlockChain Example
+
+Implementation of basic Block Chain in Java
